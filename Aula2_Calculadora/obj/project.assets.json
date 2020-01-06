@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula1/RestwithAspNet.csproj",
+      "projectUniqueName": "/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/RestwithAspNet.csproj",
       "projectName": "RestwithAspNet",
-      "projectPath": "/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula1/RestwithAspNet.csproj",
+      "projectPath": "/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/RestwithAspNet.csproj",
       "packagesPath": "/home/marcos/.nuget/packages/",
-      "outputPath": "/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula1/obj/",
+      "outputPath": "/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

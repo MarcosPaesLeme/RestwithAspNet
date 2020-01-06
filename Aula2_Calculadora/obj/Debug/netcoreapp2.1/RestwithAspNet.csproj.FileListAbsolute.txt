@@ -26,3 +26,17 @@
 /home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula1/obj/Debug/netcoreapp2.1/RestwithAspNet.RazorTargetAssemblyInfo.cache
 /home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula1/obj/Debug/netcoreapp2.1/RestwithAspNet.dll
 /home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula1/obj/Debug/netcoreapp2.1/RestwithAspNet.pdb
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/bin/Debug/netcoreapp2.1/RestwithAspNet.deps.json
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/bin/Debug/netcoreapp2.1/RestwithAspNet.runtimeconfig.json
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/bin/Debug/netcoreapp2.1/RestwithAspNet.runtimeconfig.dev.json
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/bin/Debug/netcoreapp2.1/RestwithAspNet.dll
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/bin/Debug/netcoreapp2.1/RestwithAspNet.pdb
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.csprojAssemblyReference.cache
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.csproj.CoreCompileInputs.cache
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.RazorAssemblyInfo.cache
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.RazorAssemblyInfo.cs
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.AssemblyInfoInputs.cache
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.AssemblyInfo.cs
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.RazorTargetAssemblyInfo.cache
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.dll
+/home/marcos/dev/fcmara/MVPs/ProjetoAulas/RestwithAspNet/Aula2_Calculadora/obj/Debug/netcoreapp2.1/RestwithAspNet.pdb
